@@ -1,0 +1,9 @@
+__pycache__
+*/__pycache__
+
+env/
+venv/
+
+data/
+data.zip
+submission.zip
